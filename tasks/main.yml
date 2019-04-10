@@ -1,0 +1,4 @@
+---
+# tasks file for sa-go-gimme
+
+  - include_tasks: task_gimme.yml
