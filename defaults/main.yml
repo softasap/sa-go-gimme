@@ -1,0 +1,4 @@
+---
+# defaults file for sa-go-gimme
+
+gimme_path: /bin

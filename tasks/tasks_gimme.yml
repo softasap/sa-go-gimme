@@ -1,0 +1,9 @@
+---
+  - name: Gimme | Install gimme
+    get_url:
+      url: https://raw.githubusercontent.com/travis-ci/gimme/master/gimme
+      dest: "{{ gimme_path }}/gimme"
+      mode: "u="rwx,g=rx,o=rx"
+    become: yes  
+    tags:
+      - gimme
