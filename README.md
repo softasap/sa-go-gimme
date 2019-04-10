@@ -1,7 +1,7 @@
 sa-go-gimme
 ===========
 
-[![Build Status](https://travis-ci.org/softasap/sa-go-gimme.svg?branch=master)](https://travis-ci.org/softasap/sa-go-gimme)
+[![Build Status](https://travis-ci.com/softasap/sa-go-gimme.svg?branch=master)](https://travis-ci.com/softasap/sa-go-gimme)
 
 Installs travis go version manager (gimme). Suitable for development. For binary installation see sa-go role.
 
